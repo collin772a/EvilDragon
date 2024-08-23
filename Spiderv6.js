@@ -2245,7 +2245,7 @@ break
         key: pingMsg.key,
         type: 14,
         editedMessage: {
-          conversation: `* 𝙴ᵛⁱˡ 𝙳ʳᵃᵍᵒⁿ * ⇎ *${new Date() - startTime}* ᴍs `
+          conversation: `* 𝙴ᵛⁱˡ 𝙳ʳᵃᵍᵒⁿ* *${new Date() - startTime}* ᴍs `
         }
       }
     }, {});
